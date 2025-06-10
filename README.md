@@ -39,6 +39,10 @@ pip install cryptography
 
 ‎ ‎ ‎ ‎ ‎ ‎  • Get the output file in the same directory
 
+#### 4. Output:
+
+
+
 ---
 ## 🧪 Testing
 ### To test encryption:
@@ -70,3 +74,19 @@ Decrypted File: report_decrypted.pdf
 ---
 ## ⚠️ Disclaimer
 This tool is for educational and personal security use only. Do not use it on sensitive or legally protected files without permission.
+
+---
+
+### 👤 Author
+**COMPANY:** CODTECH IT SOLUTIONS
+
+**NAME:** Bhuvanesh D
+
+**INTERN ID:** CT04DN710
+
+**DOMAIN:** CYBER SECURITY AND ETHICAL HACKING
+
+**DURATION:** 4 WEEKS
+
+**MENTOR:** NEELA SANTHOSH KUMAR
+
